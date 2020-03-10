@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5wiepa6lxyuusevb?svg=true)](https://ci.appveyor.com/project/a-vystavkina/math)
